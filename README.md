@@ -1,3 +1,5 @@
+> **Archived.** This repo now lives inside [LorenGrz/agent-config](https://github.com/LorenGrz/agent-config) under `aws/`. Issues and updates go there.
+
 # aws-skills
 
 Claude Code skills for working with AWS serverless infrastructure. Each skill is a self-contained `SKILL.md` that Claude reads on demand to apply consistent, least-privilege, cost-aware patterns.
